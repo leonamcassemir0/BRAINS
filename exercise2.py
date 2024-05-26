@@ -1,14 +1,5 @@
 import pandas as pd
 
-"""
-# Set up code checking
-from learntools.core import binder
-binder.bind(globals())
-
-from learntools.machine_learning.ex2 import *
-print("Setup complete")
-"""
-
 # Path of the file to read
 iowa_file_path = 'melb_data.csv'
 
